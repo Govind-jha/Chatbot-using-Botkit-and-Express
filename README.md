@@ -1,4 +1,4 @@
-# Botkit demo for Messenger, using Express and Mongo
+# Botkit demo Express
 
 This app is a demo of using [Botkit](https://github.com/howdyai/botkit) to create a NLP bot and running it on [Express](http://expressjs.com) webserver.
 
